@@ -4,7 +4,7 @@ books:
     short_title: Standard Core Rulebook
     edition: 5th Edition
     category: core_rulebooks
-    source_pdf: Ars_Magica_-_5th_Edition_Core_Rulebook_[AG0205].pdf
+    source_pdf: ars-magica-5th-edition-standard-core-rulebook.pdf
     publisher_url: https://www.atlas-games.com/arsmagica/openars
     license: CC BY-SA 4.0
     attribution: Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0).
@@ -17,7 +17,7 @@ books:
     short_title: 'RoP: Magic'
     edition: 5th Edition
     category: realms_of_power
-    source_pdf: Ars Magica 5e - Realms Of Power - Magic {AG0288}.pdf
+    source_pdf: realms-of-power-magic.pdf
     publisher_url: https://www.atlas-games.com/arsmagica/openars
     license: CC BY-SA 4.0
     attribution: Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0).
@@ -30,7 +30,7 @@ books:
     short_title: 'RoP: Faerie'
     edition: 5th Edition
     category: realms_of_power
-    source_pdf: '[AM5e]Realms_of_Power-Faerie.pdf'
+    source_pdf: realms-of-power-faerie.pdf
     publisher_url: https://www.atlas-games.com/arsmagica/openars
     license: CC BY-SA 4.0
     attribution: Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0).
