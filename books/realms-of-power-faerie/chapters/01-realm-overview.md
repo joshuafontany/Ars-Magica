@@ -4,6 +4,7 @@ title: 'Realms of Power: Faerie - Realm Overview'
 published: true
 permalink: /vault/Ars-Magica/realms-of-power-faerie/01-realm-overview/
 vault_nexus_key: ars_magica
+vault_book_key: realms-of-power-faerie
 ars_book_slug: realms-of-power-faerie
 ars_book_title: 'Realms of Power: Faerie'
 ars_category: realms_of_power

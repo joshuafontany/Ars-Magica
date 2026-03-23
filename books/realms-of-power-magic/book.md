@@ -4,6 +4,7 @@ title: 'Realms of Power: Magic'
 published: true
 permalink: /vault/Ars-Magica/realms-of-power-magic/
 vault_nexus_key: ars_magica
+vault_book_key: realms-of-power-magic
 ars_book_slug: realms-of-power-magic
 ars_book_title: 'Realms of Power: Magic'
 ars_category: realms_of_power

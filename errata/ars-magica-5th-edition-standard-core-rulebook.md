@@ -4,6 +4,7 @@ title: Ars Magica 5th Edition STANDARD Core Rulebook Errata
 published: true
 permalink: /vault/Ars-Magica/errata/ars-magica-5th-edition-standard-core-rulebook/
 vault_nexus_key: ars_magica
+vault_book_key: ars-magica-5th-edition-standard-core-rulebook
 ars_book_slug: ars-magica-5th-edition-standard-core-rulebook
 ars_book_title: Ars Magica 5th Edition STANDARD Core Rulebook
 ars_category: errata
