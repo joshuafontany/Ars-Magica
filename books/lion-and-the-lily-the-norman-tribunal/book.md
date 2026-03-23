@@ -2,6 +2,7 @@
 layout: gruv_book_page_adapter
 title: Lion & the Lily: The Normandy Tribunal
 published: true
+permalink: /vault/Ars-Magica/lion-and-the-lily-the-norman-tribunal/
 vault_nexus_key: ars_magica
 ars_book_slug: lion-and-the-lily-the-norman-tribunal
 ars_book_title: Lion & the Lily: The Normandy Tribunal
@@ -17,4 +18,8 @@ Pilot tribunal-book landing page.
 
 ## Chapters
 
-- [01 Normandy Tribunal Overview](./chapters/01-normandy-tribunal-overview.md)
+- [01 Normandy Tribunal Overview](./01-normandy-tribunal-overview/)
+
+## Errata
+
+- [View errata layer](../errata/lion-and-the-lily-the-norman-tribunal/)

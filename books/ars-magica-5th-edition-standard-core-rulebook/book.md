@@ -2,6 +2,7 @@
 layout: gruv_book_page_adapter
 title: Ars Magica 5th Edition STANDARD Core Rulebook
 published: true
+permalink: /vault/Ars-Magica/ars-magica-5th-edition-standard-core-rulebook/
 vault_nexus_key: ars_magica
 ars_book_slug: ars-magica-5th-edition-standard-core-rulebook
 ars_book_title: Ars Magica 5th Edition STANDARD Core Rulebook
@@ -21,9 +22,9 @@ This title is configured for chapter-level ingestion from `~/Ars-Magica/_books/A
 
 ## Chapters
 
-- [01 Overview](./chapters/01-overview.md)
-- [02 Character Creation](./chapters/02-character-creation.md)
+- [01 Overview](./01-overview/)
+- [02 Character Creation](./02-character-creation/)
 
 ## Errata
 
-- [View errata layer](../../errata/ars-magica-5th-edition-standard-core-rulebook.md)
+- [View errata layer](../errata/ars-magica-5th-edition-standard-core-rulebook/)

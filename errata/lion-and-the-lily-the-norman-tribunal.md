@@ -2,6 +2,7 @@
 layout: gruv_book_page_adapter
 title: Lion & the Lily Errata
 published: true
+permalink: /vault/Ars-Magica/errata/lion-and-the-lily-the-norman-tribunal/
 vault_nexus_key: ars_magica
 ars_book_slug: lion-and-the-lily-the-norman-tribunal
 ars_book_title: Lion & the Lily: The Normandy Tribunal

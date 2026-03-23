@@ -2,6 +2,7 @@
 layout: gruv_book_page_adapter
 title: Hedge Magic Revised Edition
 published: true
+permalink: /vault/Ars-Magica/hedge-magic-revised-edition/
 vault_nexus_key: ars_magica
 ars_book_slug: hedge-magic-revised-edition
 ars_book_title: Hedge Magic Revised Edition
@@ -17,4 +18,8 @@ Pilot world-book landing page.
 
 ## Chapters
 
-- [01 Traditions Overview](./chapters/01-traditions-overview.md)
+- [01 Traditions Overview](./01-traditions-overview/)
+
+## Errata
+
+- [View errata layer](../errata/hedge-magic-revised-edition/)

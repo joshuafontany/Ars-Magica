@@ -2,6 +2,7 @@
 layout: gruv_book_page_adapter
 title: Hedge Magic Revised Edition - Traditions Overview
 published: true
+permalink: /vault/Ars-Magica/hedge-magic-revised-edition/01-traditions-overview/
 vault_nexus_key: ars_magica
 ars_book_slug: hedge-magic-revised-edition
 ars_book_title: Hedge Magic Revised Edition

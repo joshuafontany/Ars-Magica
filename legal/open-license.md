@@ -2,6 +2,7 @@
 layout: gruv_book_page_adapter
 title: Ars Magica Open License Notes
 published: true
+permalink: /vault/Ars-Magica/legal/open-license/
 vault_nexus_key: ars_magica
 ars_category: legal
 ars_source_url: https://www.atlas-games.com/arsmagica/openars

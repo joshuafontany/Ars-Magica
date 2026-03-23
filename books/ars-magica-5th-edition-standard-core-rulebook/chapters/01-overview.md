@@ -2,6 +2,7 @@
 layout: gruv_book_page_adapter
 title: Ars Magica 5th Edition STANDARD Core Rulebook - Overview
 published: true
+permalink: /vault/Ars-Magica/ars-magica-5th-edition-standard-core-rulebook/01-overview/
 vault_nexus_key: ars_magica
 ars_book_slug: ars-magica-5th-edition-standard-core-rulebook
 ars_book_title: Ars Magica 5th Edition STANDARD Core Rulebook
