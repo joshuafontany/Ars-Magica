@@ -8,7 +8,7 @@ ars_book_slug: realms-of-power-faerie
 ars_book_title: 'Realms of Power: Faerie'
 ars_category: errata
 ars_edition: 5th Edition
-ars_source_url: https://www.atlas-games.com/arsmagica/arm5errata
+ars_source_url: https://www.atlas-games.com/product_tables/AG0290
 ars_errata_url: https://www.atlas-games.com/arm5/arm5errata.php/
 ars_has_errata: true
 ---

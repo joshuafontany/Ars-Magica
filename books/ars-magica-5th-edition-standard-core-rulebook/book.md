@@ -8,7 +8,7 @@ ars_book_slug: ars-magica-5th-edition-standard-core-rulebook
 ars_book_title: Ars Magica 5th Edition STANDARD Core Rulebook
 ars_category: core_rulebooks
 ars_edition: 5th Edition
-ars_source_url: https://www.atlas-games.com/arsmagica/openars
+ars_source_url: https://www.atlas-games.com/product_tables/AG0205
 ars_errata_url: https://www.atlas-games.com/arsmagica/arm5errata
 ars_has_errata: true
 ---

@@ -5,7 +5,7 @@ books:
     edition: 5th Edition
     category: core_rulebooks
     source_pdf: ars-magica-5th-edition-standard-core-rulebook.pdf
-    publisher_url: https://www.atlas-games.com/arsmagica/openars
+    publisher_url: https://www.atlas-games.com/product_tables/AG0205
     license: CC BY-SA 4.0
     attribution: Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0).
     errata_url: https://www.atlas-games.com/arsmagica/arm5errata
@@ -18,7 +18,7 @@ books:
     edition: 5th Edition
     category: realms_of_power
     source_pdf: realms-of-power-magic.pdf
-    publisher_url: https://www.atlas-games.com/arsmagica/openars
+    publisher_url: https://www.atlas-games.com/product_tables/AG0288.php
     license: CC BY-SA 4.0
     attribution: Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0).
     errata_url: https://www.atlas-games.com/arm5/arm5errata.php/
@@ -31,7 +31,7 @@ books:
     edition: 5th Edition
     category: realms_of_power
     source_pdf: realms-of-power-faerie.pdf
-    publisher_url: https://www.atlas-games.com/arsmagica/openars
+    publisher_url: https://www.atlas-games.com/product_tables/AG0290
     license: CC BY-SA 4.0
     attribution: Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0).
     errata_url: https://www.atlas-games.com/arm5/arm5errata.php/
