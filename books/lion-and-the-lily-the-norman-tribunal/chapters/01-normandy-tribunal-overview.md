@@ -5,7 +5,7 @@ published: true
 permalink: /vault/Ars-Magica/lion-and-the-lily-the-norman-tribunal/01-normandy-tribunal-overview/
 vault_nexus_key: ars_magica
 ars_book_slug: lion-and-the-lily-the-norman-tribunal
-ars_book_title: Lion & the Lily: The Normandy Tribunal
+ars_book_title: 'Lion & the Lily: The Normandy Tribunal'
 ars_category: tribunal_books
 ars_edition: 5th Edition
 ars_chapter_number: 1
