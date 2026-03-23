@@ -1,4 +1,5 @@
 .venv/
+_books/
 work/
 __pycache__/
 *.pyc

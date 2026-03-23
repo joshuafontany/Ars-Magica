@@ -1,0 +1,50 @@
+books:
+  - slug: ars-magica-5th-edition-standard-core-rulebook
+    title: Ars Magica 5th Edition STANDARD Core Rulebook
+    short_title: Standard Core Rulebook
+    edition: 5th Edition
+    category: core_rulebooks
+    source_pdf: Ars Magica 5th Edition STANDARD Core Rulebook.pdf
+    publisher_url: https://www.atlas-games.com/arsmagica/openars
+    license: CC BY-SA 4.0
+    attribution: Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0).
+    errata_url: https://www.atlas-games.com/arsmagica/arm5errata
+    has_images: true
+    status: pilot
+    chapter_strategy: chapter_pages
+  - slug: lion-and-the-lily-the-norman-tribunal
+    title: Lion & the Lily: The Normandy Tribunal
+    short_title: Lion & the Lily
+    edition: 5th Edition
+    category: tribunal_books
+    source_pdf: Lion & the Lily - The Normandy Tribunal.pdf
+    publisher_url: https://www.atlas-games.com/arsmagica/openars
+    license: CC BY-SA 4.0
+    attribution: Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0).
+    errata_url: https://www.atlas-games.com/arsmagica/arm5errata
+    has_images: false
+    status: pilot
+    chapter_strategy: chapter_pages
+  - slug: hedge-magic-revised-edition
+    title: Hedge Magic Revised Edition
+    short_title: Hedge Magic
+    edition: 5th Edition
+    category: world_books
+    source_pdf: Hedge Magic Revised Edition.pdf
+    publisher_url: https://www.atlas-games.com/arsmagica/openars
+    license: CC BY-SA 4.0
+    attribution: Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0).
+    errata_url: https://www.atlas-games.com/arsmagica/arm5errata
+    has_images: false
+    status: pilot
+    chapter_strategy: chapter_pages
+categories:
+  core_rulebooks: Core Rulebooks
+  tribunal_books: Tribunal Books
+  realms_of_power: Realms of Power
+  world_books: World Books
+  order_of_hermes: Order of Hermes
+  scenarios: Scenarios
+  sheets_and_mini_sagas: Sheets and Mini-Sagas
+  errata: Errata
+  legal: Legal and License
