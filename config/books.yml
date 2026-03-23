@@ -2,9 +2,9 @@ books:
   ars-magica-5th-edition-standard-core-rulebook:
     heading_style: toc_or_h1
     chapter_prefix: chapter
-  lion-and-the-lily-the-norman-tribunal:
+  realms-of-power-magic:
     heading_style: toc_or_h1
     chapter_prefix: chapter
-  hedge-magic-revised-edition:
+  realms-of-power-faerie:
     heading_style: toc_or_h1
     chapter_prefix: chapter
